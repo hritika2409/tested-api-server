@@ -67,15 +67,15 @@ This project demonstrates robust API design, modular architecture, and comprehen
 
 git clone https://github.com/hritika2409/tested-api-server.git
 
-cd tested-api-server
+```cd tested-api-server```
 
 2. **Install dependencies**
 
-npm install
+```npm install```
 
 4. **Run tests**
 
-npm test
+```npm test```
 
 
 ---
