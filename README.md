@@ -1,6 +1,6 @@
-# 📚 Book API Server with Full Test Coverage
+# 📚 Tested API Server with Full Test Coverage
 
-Welcome to the **Book API Server** — a simple and powerful REST API built with **Node.js**, **Express**, and **MongoDB**.  
+Welcome to the **Tested API Server** — a simple and powerful REST API built with **Node.js**, **Express**, and **MongoDB**.  
 This project demonstrates robust API design, modular architecture, and comprehensive automated testing.
 
 ---
