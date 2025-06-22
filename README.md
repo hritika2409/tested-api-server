@@ -65,7 +65,7 @@ This project demonstrates robust API design, modular architecture, and comprehen
 
 1. **Clone the repo**
 
-git clone https://github.com/hritika2409/tested-api-server.git
+```git clone https://github.com/hritika2409/tested-api-server.git```
 
 ```cd tested-api-server```
 
