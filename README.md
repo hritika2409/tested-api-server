@@ -48,7 +48,6 @@ This project demonstrates robust API design, modular architecture, and comprehen
 ├── package.json
 └── README.md                     # You're reading it!
 
-
 ---
 
 ## 🧪 Test Coverage
@@ -59,7 +58,7 @@ This project demonstrates robust API design, modular architecture, and comprehen
 - **Coverage:** Over 80% lines tested
 
 **Test Result Example:**  
-![npm test result](https://via.placeholder.com/600x400/cccccc/000000?text=Add+your+npm+test+screenshot+here)
+![npm test result](./test.png)
 
 ---
 
